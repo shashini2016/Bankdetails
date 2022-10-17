@@ -7,6 +7,8 @@ public class BankInfo extends AxisBank {
 	private void fixed() {
 		System.out.println("A fixed deposit, also known as an FD");
 		System.out.println("new line added");
+		System.out.println("arun added new line");
+		System.out.println("sumathi added");
 		System.out.println("arun modified");
 	}
 	public static void main(String[] args) {
